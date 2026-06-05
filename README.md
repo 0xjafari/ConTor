@@ -1,4 +1,3 @@
-```markdown
 # 🔌 ConTor — Connect Tor + DNS Scanner + Local DNS Proxy / اتصال به تور + اسکنر DNS + پروکسی DNS محلی
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -478,7 +477,7 @@ ConTor نرم‌افزاری آزاد است: می‌توانید آن را تح
 
 **توجه:** اگر نسخه تغییر یافته‌ای از ConTor (یا هر نرم‌افزاری که کد ConTor را در خود دارد) توزیع کنید، شما **موظف هستید** که کد منبع کامل را تحت GPLv3 در دسترس قرار دهید.
 
----
+
 
 <div align="center">
 
@@ -495,4 +494,3 @@ Architecture: Tor Controller + DNS Scanner + Local Proxy / معماری: کنت�
 License: GNU General Public License v3.0 / مجوز عمومی همگانی گنو نسخه ۳  
 
 </div>
-```
